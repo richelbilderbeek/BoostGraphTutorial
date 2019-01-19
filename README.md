@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A well-connected C++11 Boost.Graph tutorial
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
@@ -59,3 +60,7 @@ For example, take the function `f`:
   * Siek, Jeremy G., Lie-Quan Lee, and Andrew Lumsdaine. Boost Graph Library: User Guide and Reference Manual, The. Pearson Education, 2001
   * The Boost.Graph website, [http://www.boost.org/doc/libs/release/libs/graph/doc](http://www.boost.org/doc/libs/release/libs/graph/doc)
 
+=======
+# BoostGraphTutorial
+Redirects to https://github.com/richelbilderbeek/boost_graph_cookbook_1
+>>>>>>> b09c6c7ec2952644bc20cd0e976a9d9b35bf2e6a
